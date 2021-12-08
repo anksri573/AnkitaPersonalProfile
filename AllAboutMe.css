@@ -1,0 +1,26 @@
+html{
+  background-color: black;
+}
+
+/*.heading{
+  text-align: center;
+  font-size: 50px;
+}
+
+.paragraph{
+  text-align: left;
+  font-size: 20px;
+}*/
+
+.text{
+  font-family: sans-serif;
+  color: white;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.image{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 10%;
+}
